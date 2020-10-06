@@ -1,0 +1,1 @@
+AutoML Tablesに関する講義資料
